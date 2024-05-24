@@ -186,6 +186,8 @@
   width: 8px;
   background-color: rgb(230, 166, 5);
   margin-top: -186px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
 .section2 h2 {
   padding-top: 30px;
